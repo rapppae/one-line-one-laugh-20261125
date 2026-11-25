@@ -1,11 +1,11 @@
 """One Line, One Laugh — make.fun entry.
 
-Entry text: 120 characters (limit 140).
+Entry text: 117 characters (limit 140).
 """
 
 import os
 
-ENTRY = 'My smart fridge just emailed me a diet plan, which is rich coming from an appliance that has never once skipped dessert.'
+ENTRY = 'My smart fridge just sent me a diet plan, which is rich coming from an appliance that has never once skipped dessert.'
 
 
 def main():

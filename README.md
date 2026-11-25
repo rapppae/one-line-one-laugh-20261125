@@ -6,7 +6,7 @@
 
 Bounty: https://make.fun/bounty/u-4z4ghtbwm1fn7mibrqum4bxgfghhgqzriyhd8v3-one-line-0be61e5a
 
-> My smart fridge just emailed me a diet plan, which is rich coming from an appliance that has never once skipped dessert.
+> My smart fridge just sent me a diet plan, which is rich coming from an appliance that has never once skipped dessert.
 
 ## Run
 
